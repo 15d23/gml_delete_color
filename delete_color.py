@@ -2,8 +2,6 @@ import re
 import sys
 import locale
 import optparse
-# pip install python-igraph
-from igraph import *
 
 # Usage message
 usgmsg = "Usage: delete_color.py file.gml"
